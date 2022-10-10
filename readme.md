@@ -19,6 +19,7 @@ This project is a Random Password Generator Website. This website can provide yo
 * You can include *Lower Case letters* in your password.
 * You can include *symbols* in your password.
 * You can include *numbers* in your password.
+* Clipboard to copy your password.
 
 ### Technologies
 #
@@ -30,5 +31,5 @@ This project is a Random Password Generator Website. This website can provide yo
 #
 Just click on the deployed link below to see the project.
 
-[Name Conversion](https://nameconversionproject.netlify.app/)
+[Password Generator](https://passwordgeneratorproject.netlify.app/)
 
